@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Neo4jBolt.Aspnet.Identity")]
+[assembly: AssemblyProduct("Neo4jBolt.AspNet.Identity")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("19183285-f1b3-4197-a0ca-d8a6473b7b8f")]
+[assembly: Guid("24452739-e87d-48c6-849b-404644735045")]
