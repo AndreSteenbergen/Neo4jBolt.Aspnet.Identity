@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D63B8DCB-4439-4451-9159-052D2E0F5355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1B9B85D2-0D52-45F9-86A9-2B3D75157AA0}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Neo4jBolt.Aspnet.Identity", "src\Neo4jBolt.Aspnet.Identity\Neo4jBolt.Aspnet.Identity.xproj", "{19183285-F1B3-4197-A0CA-D8A6473B7B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19183285-F1B3-4197-A0CA-D8A6473B7B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19183285-F1B3-4197-A0CA-D8A6473B7B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19183285-F1B3-4197-A0CA-D8A6473B7B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19183285-F1B3-4197-A0CA-D8A6473B7B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19183285-F1B3-4197-A0CA-D8A6473B7B8F} = {D63B8DCB-4439-4451-9159-052D2E0F5355}
+	EndGlobalSection
+EndGlobal
